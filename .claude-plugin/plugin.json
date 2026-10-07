@@ -1,0 +1,19 @@
+{
+  "name": "ci-minutes-audit",
+  "version": "1.0.0",
+  "description": "Audits where GitHub Actions minutes go (billed as GitHub bills them), reports waste and the month-end projection, and ranks proven reductions by minutes saved.",
+  "author": {
+    "name": "Voyteck",
+    "url": "https://github.com/Voyteck"
+  },
+  "homepage": "https://github.com/Voyteck/claude-skill-ci-minutes-audit",
+  "repository": "https://github.com/Voyteck/claude-skill-ci-minutes-audit",
+  "license": "MIT",
+  "keywords": [
+    "github-actions",
+    "ci",
+    "cost",
+    "billing",
+    "minutes"
+  ]
+}
